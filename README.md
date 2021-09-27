@@ -1,2 +1,1 @@
-# guilan-ap-projects
-Computer engineering 1400/1 exercises 
+Computer engineering, Guilan university, Advanced programming, 1400/1 exercises 
